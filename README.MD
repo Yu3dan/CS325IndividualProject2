@@ -44,7 +44,7 @@ The output.txt file included here is my output using the Reddit URL https://old.
 My command would look like this:
 
 ```
-python IDProject1.py https://www.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/
+python IDProject1.py https://old.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/
 ```
 
 If ran correctly, you should see your updated file1.txt file in the same folder with all the new data of the Reddit post you provided.
