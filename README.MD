@@ -11,7 +11,7 @@ git clone https://github.com/Yu3dan/CS325IndividualProject2
 
 Once you have done this, make sure you are in the correct directory the repository (and its content) was downloaded to using cd (file location) in your terminal.
 
-The requirement.yaml file included is all the neccesary libraries in the environment I coded this project under while using miniconda.
+The requirements.yaml file included is all the neccesary libraries in the environment I coded this project under while using miniconda.
 In order to use the packages needed to run this program, you must create a new environment using the .yaml file given. Before you do this, you must remember to deactivate your current environment using
 
 ```
