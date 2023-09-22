@@ -65,4 +65,3 @@ Waiting for someone to say zoro is already close to yonko level
 
 "Lukeinafter" is the author of the comment, and "Waiting for someone to say zoro is already close to yonko level" is the commment itself.
 
-"# CS325IndividualProject2" 
